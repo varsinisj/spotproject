@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spotproject/static/css/main.42b2956c.css",
+    "main.js": "/spotproject/static/js/main.43b29930.js",
+    "static/js/453.0a36081d.chunk.js": "/spotproject/static/js/453.0a36081d.chunk.js",
+    "index.html": "/spotproject/index.html",
+    "main.42b2956c.css.map": "/spotproject/static/css/main.42b2956c.css.map",
+    "main.43b29930.js.map": "/spotproject/static/js/main.43b29930.js.map",
+    "453.0a36081d.chunk.js.map": "/spotproject/static/js/453.0a36081d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42b2956c.css",
+    "static/js/main.43b29930.js"
+  ]
+}
