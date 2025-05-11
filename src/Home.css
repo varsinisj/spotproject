@@ -1,0 +1,120 @@
+.fulll {
+    background-image: url('https://i.pinimg.com/originals/52/32/90/5232904ccff536abd7187f9a3eca7eeb.jpg');
+    height: 800px;
+    background-size: cover;
+}
+
+.loc {
+    height: 50px;
+    width: 50;
+    background-color: antiquewhite;
+    text-align: left;
+    display: flex;
+    justify-content: space-around;
+    padding: 1.25px;
+}
+
+/* Animation for .che */
+.che {
+    height: 170px;
+    width: 170px;
+    background-color: beige;
+    padding: 30px;
+    border-radius: 20px;
+    border: 5px solid rgb(185, 176, 124);
+    /* Initial state */
+    opacity: 0;
+    transform: translateY(50px);
+
+    /* Unique animation for .che */
+    animation: fadeInUpChe 1s ease-in-out forwards;
+    animation-delay: 0.2s;
+}
+
+@keyframes fadeInUpChe {
+    0% {
+        opacity: 0;
+        transform: translateY(50px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Animation for .book */
+.book {
+    height: 170px;
+    width: 170px;
+    background-color: beige;
+    padding: 30px;
+    border-radius: 20px;
+    border: 5px solid rgb(185, 176, 124);
+    /* Initial state */
+    opacity: 0;
+    transform: translateY(50px);
+
+    /* Unique animation for .book */
+    animation: fadeInUpBook 1s ease-in-out forwards;
+    animation-delay: 0.4s;
+}
+
+@keyframes fadeInUpBook {
+    0% {
+        opacity: 0;
+        transform: translateY(50px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Animation for .near */
+.near {
+    height: 170px;
+    width: 170px;
+    background-color: beige;
+    padding: 30px;
+    border-radius: 20px;
+    border: 5px solid rgb(185, 176, 124);
+
+    /* Initial state */
+    opacity: 0;
+    transform: translateY(50px);
+
+    /* Unique animation for .near */
+    animation: fadeInUpNear 1s ease-in-out forwards;
+    animation-delay: 0.6s;
+}
+
+@keyframes fadeInUpNear {
+    0% {
+        opacity: 0;
+        transform: translateY(50px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.hh {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 200px;
+}
+
+.value {
+    color: rgb(12, 10, 10);
+    background-color: rgb(203, 201, 167);
+    width: 100px;
+    height: 40px;
+    border: none;
+}
+
+.bu {
+    background-color:beige;
+    border: none;
+    color: black;
+}

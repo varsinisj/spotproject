@@ -1,0 +1,83 @@
+.wh{
+    background-image: url('https://rickspaving.com/wp-content/uploads/6910-N.-Mesa-finished--1024x768.jpg');
+    background-size:1800px;
+    width:auto;
+    height:800px;
+    padding: 70px;
+  }
+  .Box {
+    width: 400px;
+    height: 250px;
+    text-align: center;
+    /* background-image: linear-gradient(to right,rgb(217, 177, 177),rgb(83, 75, 75)); */
+    background-color: transparent;
+    justify-content: center;
+    margin-left: 500px;
+    margin-top: 100px;
+    padding: 100px;
+    border: 3px solid rgb(206, 195, 195);
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px rgba(3, 3, 3, 3);
+
+
+  }
+
+
+  .but{
+    text-align: center;
+    color: rgb(49, 49, 84);
+    font-weight: 100;
+    justify-content: center;
+    justify-items: center;
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 20px;
+    font-size: 14px;
+  }
+
+  .butt{
+    text-align: center;
+    font: bold;
+    font-weight: 100;
+    color: rgb(49, 49, 84);
+    justify-content: center;
+    justify-items: center;
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 20px;
+    font-size: 14px;
+
+  }
+  .divv{
+  margin-left: 30px;
+
+  }
+  .Name{
+    border-radius: 20px;
+    background-color: rgb(250, 250, 250);
+    box-shadow: 3px 3px 3px 3px rgb(143, 138, 138);
+    border: none;
+
+
+  }
+  .Email{
+    border-radius: 20px;
+    background-color: rgb(250, 250, 250);
+    box-shadow: 3px 3px 3px 3px rgb(143, 138, 138);
+    border: none;
+  }
+  .pass{
+    border-radius: 20px;
+    background-color: rgb(250, 250, 250);
+    box-shadow: 3px 3px 3px 3px rgb(143, 138, 138);
+    border: none;
+  }
+  .cpass{
+    border-radius: 20px;
+    background-color: rgb(250, 250, 250);
+    box-shadow: 3px 3px 3px 3px rgb(143, 138, 138);
+    border: none;
+
+  }

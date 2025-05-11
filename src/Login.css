@@ -1,0 +1,38 @@
+.head{
+    color:#212f3c ;
+
+   }
+   .input-page {
+       width: auto;
+       height:500px;
+       background: url("https://rickspaving.com/wp-content/uploads/6910-N.-Mesa-finished--1024x768.jpg");
+       background-size: cover;
+       padding-top: 270px;
+       justify-content: center;
+       align-items: center;
+
+   }
+   .full {
+       justify-content: center;
+       align-items: center;
+       border: 2px solid white;
+       width: 500px;
+
+       border-radius: 20px;
+       box-shadow: black;
+       background-color: blur;
+       background: transparent;
+
+   }
+   .input {
+       align-items: center;
+       padding-top: 20px;
+   }
+   input {
+       width: 250px;
+       padding: 10px;
+       margin: 3px 0;
+       border: none;
+       border-radius: 5px;
+       box-sizing: border-box;
+     }
